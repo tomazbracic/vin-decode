@@ -32,7 +32,7 @@ VinDecode.info(vin) # => {:error, :invalid_checksum}
 ```elixir
 def deps do
   [
-    {:vin_decode, "~> 0.1.0"}
+    {:vin_decode, "~> 0.2.0"}
   ]
 end
 ```
