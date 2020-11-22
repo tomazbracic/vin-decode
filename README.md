@@ -2,6 +2,12 @@
 
 Library for decoding VIN number and Validation VIN number
 
+# ARCHIVED 
+
+## Seems to be useless, becouse standart doesn't work, and correct decoding is solvable with base of manafactur codes
+
+
+
 # Contribution
 
 Feel free to make a pull request. All contributions are appreciated!
